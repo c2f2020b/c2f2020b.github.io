@@ -1,0 +1,1 @@
+import{_ as s,c as o,o as e,d as n}from"./app.b472ca9c.js";const g=JSON.parse('{"title":"CSS \u76D2\u5B50\u6A21\u578B box-sizing","description":"","frontmatter":{},"headers":[],"relativePath":"box-sizing.md"}'),a={name:"box-sizing.md"},p=n("",4),c=[p];function t(r,i,d,l,x,b){return e(),o("div",null,c)}const C=s(a,[["render",t]]);export{g as __pageData,C as default};
